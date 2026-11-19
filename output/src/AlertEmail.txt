@@ -1,0 +1,142 @@
+SIAGA
+
+Flood alert · Sungai Ciliwung · Jakarta
+
+---
+
+SIAGA 1
+
+AWAS — DANGER
+
+Reading KTL-20151115-1910
+
+Sunday, 15 November 2015 · 19:10 WIB
+
+Flood alert · Bendung Katulampa
+
+EVACUATE NOW — THE FLOOD IS ON ITS WAY
+
+Good evening, {{first_name}} — the Ciliwung at Bendung Katulampa is at 210 cm, up 40 cm in the last 10 minutes. That puts the river at SIAGA 1 (AWAS — DANGER).
+
+---
+
+Water level
+
+210 cm
+
+SIAGA 1 · rising
+
+Reaches Manggarai
+
+~9 hours
+
+around 04:10 WIB, Monday 16 November 2015
+
+Water is above the danger line. Flood water is already moving downstream toward Jakarta — evacuate now, do not wait for it to arrive.
+
+WHAT TO DO NOW
+
+1. EVACUATE NOW to your nearest shelter — do not wait for the water.
+2. Bring documents, medicine, drinking water and a charged phone.
+3. Turn off electricity at the main switch before leaving the house.
+4. Never walk or drive through flood water — 30 cm can sweep you away.
+5. Call 112 (Jakarta Siaga) in an emergency.
+
+HOW THE WATER ROSE
+
+From 50 cm to 210 cm in 70 minutes — every bar below is one gauge reading from the same evening, coloured by the level it reached.
+
+50
+
+18:00
+
+70
+
+18:10
+
+90
+
+18:20
+
+110
+
+18:30
+
+130
+
+18:40
+
+150
+
+18:50
+
+170
+
+19:00
+
+210
+
+19:10
+
+SIAGA 1 ≥200 cm
+
+SIAGA 2 150–199 cm
+
+SIAGA 3 80–149 cm
+
+SIAGA 4 <80 cm
+
+AREAS AFFECTED
+
+Kampung Melayu
+
+Riverside homes along the Ciliwung — lowest ground, floods first.
+
+Bukit Duri
+
+Low streets near the river, south of the gauge.
+
+Bidara Cina
+
+Riverside lanes; water reaches the lanes at watch level.
+
+Cawang
+
+Low-lying blocks east of the river.
+
+Manggarai
+
+Pintu Air Manggarai — where the flood wave arrives, ~9 hours after Katulampa.
+
+5 of 5 monitored areas affected at this level — computed from the reading.
+
+WHERE TO GO
+
+Shelters open for this reading — go to the one nearest you, and tell your neighbours.
+
+Shelter | Where | Capacity
+Posko Kampung Melayu | Community hall, Kampung Melayu | 300 people
+Gelanggang Remaja Tebet | Sports hall, Tebet | 500 people
+Sekolah Dasar Manggarai | School hall, Manggarai | 250 people
+
+Emergency: Jakarta Siaga 112 — call 112.
+
+One reading, one level
+
+Reading KTL-20151115-1910 · Bendung Katulampa, Sungai Ciliwung
+
+Recorded Sunday, 15 November 2015 · 19:10 WIB · Source: BNPB (Badan Nasional Penanggulangan Bencana) & BPBD DKI Jakarta
+
+One reading, one level — this ID is identical on the email, the page, the guide and the card.
+
+See the live status page (https://example.com/siaga/KTL-20151115-1910)
+
+Live status (https://example.com/siaga/KTL-20151115-1910) · Evacuation guide (PDF) (https://example.com/siaga/KTL-20151115-1910/guide.pdf) · Unsubscribe (https://example.com/unsubscribe)
+
+SIAGA flood alerts for the Ciliwung riverside, from BNPB (Badan Nasional Penanggulangan Bencana) & BPBD DKI Jakarta. You are receiving this because you subscribed to flood alerts for your area.
+
+---
+
+SAMPLE SCENARIO — the real flood of 15 Nov 2015. Not a live alert. Shelters and routes are illustrative; thresholds and the 9-hour travel time are real (BNPB).
+
+BPBD DKI Jakarta · Jl. Raya Bogor, Jakarta · Emergency 112
